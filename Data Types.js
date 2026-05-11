@@ -28,5 +28,5 @@ console.log(typeof Number);
 
 
 //Seventh Data Type(Symbol)
-let namee=Symbol("Khan___"); // This Data Type is used to Store Symbols. And we are not gonna used it too much.
+let namee=Symbol("Khan___"); // This Data Type is used to Store Symbols.
 console.log(typeof namee);

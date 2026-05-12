@@ -1,3 +1,14 @@
+// Conversion of a String to Number & Number to String in (Addition) is Very  Confusing . This One is Different. Example:
+
+console.log("12" + 32); 
+console.log("11" + 2 + 7);
+console.log(10 + 20 + "15");
+
+/*
+If i put a string first like the first & second console.log then all the next numbers will be a string but if i write like the 
+third console.log it will add the first two numbers first then add a string so it will give me the output 3015.
+*/
+
 /* 
 Java Script DataType Conversion is a little bit or a lot of confusing
 For Example: if i convert string "123baker" into a Number then if i see the type of that variable it show me a Number 

@@ -1,4 +1,15 @@
-// There are seven Data Types. Number, String, Boolean, undefined, object, BigInt, null, symbol.
+/* 
+The main two Data Types in Java Script are Primitive and Reference(non primitive) Data Types
+
+Primitive Data Types are :
+Number, String, Boolean, Undefined, Symbol, BigInt, null.
+
+Reference Data Types are :
+Arrays, Functions, and Objects.
+*/
+
+
+// These are seven Primitive Data Types which are explained. Number, String, Boolean, undefined, BigInt, null, symbol.
 // First Data Type(Number)
 let age = 20; // this Data type is called number.
 console.log(typeof age);

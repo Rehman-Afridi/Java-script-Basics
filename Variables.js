@@ -13,7 +13,6 @@ in let or var can be changed.
 let and const: let and const is used instead of var because let and const respect blocks. Thats why let and const is used 
 everywhere.
 */
-// what is this 
 
 const AccountName = "RehmanUllah@gmail.com";
 let AccountPassword = 12345;
@@ -24,5 +23,3 @@ AccountPassword = 54321;  // These two variable value changed. Because these var
 Username = "Rehman Afridi";// and their value can change. As it is showing
 
 console.log(AccountName,AccountPassword,Username);
-
-// hellllloooooo

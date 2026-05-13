@@ -42,3 +42,4 @@ console.log(typeof Number);
 let name = Symbol("Khan");// This Data Type is used for Unique Purposes. Even if the value is same it will still not be equal in Symbol.
 let secondName = Symbol("Khan")
 console.log(name === secondName);
+

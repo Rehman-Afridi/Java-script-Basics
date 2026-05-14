@@ -15,9 +15,9 @@ console.log("w % x =",w%x);
 // There are six Assignment Operators.
 
 // First Operator
-let num =5; // This Operator += is used to add a value to a variable.
-num+=15;
-console.log(num);
+let m=5;// This Operator = is used to assign a value 
+console.log(m);
+
 
 // Second Operator.
 let k = 25; // This Operatorb-= is used to subtract a value from a variable.
@@ -30,8 +30,9 @@ W *=15;
 console.log(W);
 
 // Fourth Operator.
-let m=5;// This Operator = is used to assign a value 
-console.log(m);
+let num =5; // This Operator += is used to add a value to a variable.
+num+=15;
+console.log(num);
 
 // Fifth Operator
 let R= 10;

@@ -1,3 +1,15 @@
+// Arithmetic Operators :
+
+// Arithmetic Operators whic are +,-,*,/.
+let w = 9;
+let x = 5;
+console.log("w+x =",w+x,"w is",w,"& x is",x);
+console.log("w - x =",w-x);
+console.log("w * x =",w*x);
+console.log("w / x =",w/x);
+console.log("w % x =",w%x);
+
+
 // Assignment Operators :
 
 // There are six Assignment Operators.
